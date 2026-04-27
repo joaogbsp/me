@@ -1,9 +1,9 @@
 # Hi 👋, I'm João Gabriel Pacheco
 
-<h3 align="center">18 anos • Estudante de Tecnologia na UEMA • Aluno na software house TheraLabs</h3>
+<h3 align="center">19 anos • Estudante de Tecnologia na UEMA • Aluno na software house TheraLabs</h3>
 
-- 🌱 Atualmente aprendendo **JavaScript**  
-- 🎯 Explorando **React**, **TypeScript**, **Tailwind CSS** e **Firebase**  
+- 🌱 Atualmente aprendendo **React, Typescript**  
+- 🎯 Explorando **SQL**, **Java**, **React Native**  
 - 📫 Como me encontrar: **joaogbsp@gmail.com**  
 - ⚡ Fun fact: Procuro me especializar em **Fullstack**
 
@@ -18,7 +18,7 @@
   <a href="https://instagram.com/jgabriel.sp" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/424597960853159957" target="_blank">
+  <a href="https://discord.com/users/jgpacheco" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>

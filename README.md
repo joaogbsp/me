@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Gabriel Pacheco
 
-<h3 align="center">19 anos • Estudante de Tecnologia na UEMA • Aluno na software house TheraLabs</h3>
+<h3 align="center">20 anos • Estudante de Tecnologia na UEMA • Aluno na software house TheraLabs</h3>
 
 - 🌱 Atualmente aprendendo **React, Typescript**  
 - 🎯 Explorando **SQL**, **Java**, **React Native**  
